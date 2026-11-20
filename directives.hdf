@@ -2,8 +2,8 @@
 TimeZone=America/Mexico_City
 ConfigExpirationTime=2027-12-31T11:59:00
 AvailableKeyboardLayouts=latam|us|
-DefaultKeyboardLayout=us
-EventConfig=true
+DefaultKeyboardLayout=latam
+EventConfig=false
 ContestConfig=true
 
 [Always]
@@ -30,7 +30,6 @@ Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/freebs
 WallpaperSha256=01a764ed352a151b55d8374b40bc250f5a843bcc6892623a0631530aa59717a1
 
 [Event-Times]
-2026-10-09T17:15:00 2026-10-09T17:40:00
 
 [Contest-Times]
-2026-11-20T01:05:00 2026-11-13T01:30:00
+2026-11-20T01:05:00 2026-11-20T01:30:00
