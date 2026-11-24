@@ -18,16 +18,16 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=internet/chromium|langs/g++|gdb|
 Bookmarks=huronOS^https://huronos.org|
-Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/circuitry-bsd-logo.jpg
-WallpaperSha256=f061ab12a4a21eac357bf6b6633e54b7dd78a8e5a8aa44a3af54d2be994765bb
+Wallpaper=https://raw.githubusercontent.com/damenpa/huronOS_files/main/fondo_event.jpeg
+WallpaperSha256=cb7757f955cf8bf72fd43aa091c968c98038dd86ab69f79aed635ecce6cbdda0
 
 [Contest]
 AllowedWebsites=secsar.ddns.net|google.com|amazon.com|lichess.org|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/gdb|internet/chromium|langs/g++|langs/gcc|langs/pypy3|langs/python3|tools/konsole|programming/vim|programming/vscode|
 Bookmarks={SECSAR^https://secsar.ddns.net}|{UPAEP^https://upaep.mx}|
-Wallpaper=https://raw.githubusercontent.com/73725f78/huronOS_files/master/freebsd.png
-WallpaperSha256=01a764ed352a151b55d8374b40bc250f5a843bcc6892623a0631530aa59717a1
+Wallpaper=https://raw.githubusercontent.com/damenpa/huronOS_files/main/fondo_contest.jpeg
+WallpaperSha256=f09a7775320afbc2f4d687ed94dbb2d6e4d8a2ecd2301cd14db66168e6c78d7c
 
 [Event-Times]
 
