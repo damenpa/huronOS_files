@@ -11,7 +11,8 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/gdb|internet/chromium|langs/g++|langs/gcc|langs/pypy3|langs/python3|tools/konsole|programming/vim|programming/vscode|
 Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
-Wallpaper=default
+Wallpaper=https://raw.githubusercontent.com/damenpa/huronOS_files/main/fondo_event.jpeg
+WallpaperSha256=cb7757f955cf8bf72fd43aa091c968c98038dd86ab69f79aed635ecce6cbdda0
 
 [Event]
 AllowedWebsites=all
