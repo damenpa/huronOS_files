@@ -23,14 +23,14 @@ Wallpaper=https://raw.githubusercontent.com/damenpa/huronOS_files/main/fondo_eve
 WallpaperSha256=cb7757f955cf8bf72fd43aa091c968c98038dd86ab69f79aed635ecce6cbdda0
 
 [Contest]
-AllowedWebsites=secsar.ddns.net|google.com|amazon.com|lichess.org|
+AllowedWebsites=|omegaup.com|ide.usaco.guide|cppreference.com|codeforces.com|moj.naquadah.com.br|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/gdb|internet/chromium|langs/g++|langs/gcc|langs/pypy3|langs/python3|tools/konsole|programming/vim|programming/vscode|
-Bookmarks={SECSAR^https://secsar.ddns.net}|{UPAEP^https://upaep.mx}|
+Bookmarks={UPAEP^https://upaep.mx}|
 Wallpaper=https://raw.githubusercontent.com/damenpa/huronOS_files/main/fondo_contest.jpeg
 WallpaperSha256=f09a7775320afbc2f4d687ed94dbb2d6e4d8a2ecd2301cd14db66168e6c78d7c
 
 [Event-Times]
 
 [Contest-Times]
-2026-11-20T01:05:00 2026-11-20T01:55:00
+2026-11-25T00:00:00 2026-11-25T23:59:00
