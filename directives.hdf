@@ -26,7 +26,7 @@ WallpaperSha256=cb7757f955cf8bf72fd43aa091c968c98038dd86ab69f79aed635ecce6cbdda0
 AllowedWebsites=|omegaup.com|ide.usaco.guide|cppreference.com|codeforces.com|moj.naquadah.com.br|
 AllowUsbStorage=false
 AvailableSoftware=debuggers/gdb|internet/chromium|langs/g++|langs/gcc|langs/pypy3|langs/python3|tools/konsole|programming/vim|programming/vscode|
-Bookmarks={UPAEP^https://upaep.mx}|
+Bookmarks={UPAEP^https://upaep.mx}|{omegaUp^https://omegaup.com}|{USACO Guide IDE^https://ide.usaco.guide}|{cppreference^https://cppreference.com}|{Codeforces^https://codeforces.com}|{MOJ Naquadah^https://moj.naquadah.com.br}|
 Wallpaper=https://raw.githubusercontent.com/damenpa/huronOS_files/main/fondo_contest.jpeg
 WallpaperSha256=f09a7775320afbc2f4d687ed94dbb2d6e4d8a2ecd2301cd14db66168e6c78d7c
 
