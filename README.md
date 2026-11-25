@@ -31,8 +31,5 @@ root@huronOS:/home/contestant# hos-wallpaper --automatic
 ## Ejemplo de instalación
 
 ```bash
-./install.sh \
-  --directives-url https://raw.githubusercontent.com/damenpa/huronOS_files/main/directives.hdf \
-  --directives-server-ip 1.1.1.1 \
-  --root-password toorx
+./install.sh --directives-url https://raw.githubusercontent.com/damenpa/huronOS_files/main/directives.hdf --directives-server-ip 1.1.1.1 --root-password toorx
 ```
